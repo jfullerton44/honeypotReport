@@ -1,54 +1,39 @@
-Milestone 1:![](media/image1.png){width="6.5in"
-height="0.29104549431321086in"}
+Milestone 1:![](media/image1.png)
 
 The above command allows for incoming traffic on ports 3000 and 10000 to
-be sent through.![](media/image2.png){width="6.5in"
-height="4.2714293525809275in"}
-
+be sent through.![](media/image2.png)
 On google cloud I created a project to be used for this activity.
 
-![](media/image3.png){width="6.5in" height="1.229498031496063in"}
-
+![](media/image3.png)
 Upon running the next command I get an error saying the zone is
 overloaded and cannot process the request.
 
 The startup worked correctly in a new
-zone.![](media/image4.png){width="6.5in" height="1.7898556430446195in"}
-
+zone.![](media/image4.png)
 Milestone 2:
 
-![](media/image5.png){width="6.5in" height="6.313647200349957in"}
-
+![](media/image5.png)
 Using an install command from Piazza I was able to install and activate
-man![](media/image6.png){width="6.5in"
-height="0.6796445756780403in"}![](media/image7.png){width="6.5in"
-height="6.313647200349957in"}
-
+man![](media/image6.png)![](media/image7.png)
 After adding tcp:80 ingress activity I was able to see the login page on
 the specified ip.
 
-Milestone 3:![](media/image8.png){width="6.5in"
-height="3.4181036745406823in"}
+Milestone 3:![](media/image8.png)
 
 Using the codepath commands I was able to create a
-second![](media/image9.png){width="6.5in" height="4.296679790026246in"}
+second![](media/image9.png)
 firewall and VM for the honeypot. After that I used ssh to gain access
 to the honeypot.
 
-Miles![](media/image10.png){width="6.5in"
-height="3.8553215223097115in"}tone 4:
+Miles![](media/image10.png)tone 4:
 
-![](media/image11.png){width="6.5in" height="4.4248031496063in"}
-
+![](media/image11.png)
 Using the command generated in the admin deploy console I was able to
 create a honeypot on the second VM.
 
-![](media/image12.png){width="6.5in" height="3.8553215223097115in"}
-
-![](media/image13.png){width="6.5in" height="4.4248031496063in"}
-
-Milestone 5:![](media/image14.png){width="4.938698600174978in"
-height="3.601476377952756in"}
+![](media/image12.png)
+![](media/image13.png)
+Milestone 5:![](media/image14.png)
 
 Using the Nmap command I was able to search for open ports on the
 honeypot VM
@@ -58,5 +43,4 @@ I was able to see the activity where I requested information from the
 honeypot VM. Using this system I would be able to see anytime the
 honeypot VM was accessed by any outside source.
 
-![](media/image15.png){width="6.445533683289589in"
-height="4.387725284339457in"}
+![](media/image15.png)
