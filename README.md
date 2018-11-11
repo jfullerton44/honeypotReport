@@ -25,7 +25,7 @@ second![](media/image9.png)
 firewall and VM for the honeypot. After that I used ssh to gain access
 to the honeypot.
 
-Miles![](media/image10.png)tone 4:
+Miles![](media/image10.png)
 
 ![](media/image11.png)
 Using the command generated in the admin deploy console I was able to
